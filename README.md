@@ -1,6 +1,6 @@
 ## Hi i am Jashua 👋
 
-<!--
+
 a developer always learning and building simple, useful stuff.
 
 Here are some ideas to get you started:
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on **WIB Attendance System**  
 - 🌱 Learning **Flutter & MERN stack** 
 - 📫 Reach me at: [jashuadev@gmail.com] 
--->
+
 
 ### 🛠️ Languages & Tools  
 
